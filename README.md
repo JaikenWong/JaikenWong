@@ -2,7 +2,7 @@
 
 <div>
     <p align="left">
-        <a href="https://dunwu.github.io/" target="_blank" rel="noopener noreferrer">
+        <a href="https://jaikenwong.github.io/" target="_blank" rel="noopener noreferrer">
             <img src="niubi.png" alt="logo" />
         </a>
         <a>
